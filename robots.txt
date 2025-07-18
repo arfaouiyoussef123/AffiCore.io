@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://affiicore-io.pages.dev/sitemap.xml
